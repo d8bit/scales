@@ -1,7 +1,7 @@
 
 class Note {
     static test() {
-        console.log('wololo');
+        console.log('Test');
     }
 }
 

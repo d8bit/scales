@@ -1,1 +1,3 @@
-console.log('test');
+import Note from './Note';
+
+Note.test();

@@ -101,7 +101,7 @@ var Note = function () {
     _createClass(Note, null, [{
         key: 'test',
         value: function test() {
-            console.log('test');
+            console.log('wololo');
         }
     }]);
 
